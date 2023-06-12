@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 #### IRIS Model
-Here you find the GitLab repository of a tick population model I have worked on for a research project:  
+Here you find the GitLab repository of a tick population model I have developed for a research project:  
 [https://git.ufz.de/ecoepi/iris](https://git.ufz.de/ecoepi/iris)
 
 <!--
