@@ -4,6 +4,8 @@
 Here you find the GitLab repository of a tick population model I have developed for a research project:  
 [https://git.ufz.de/ecoepi/iris](https://git.ufz.de/ecoepi/iris)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hnolzen&layout=compact)
+
 <!--
 **hnolzen/hnolzen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
