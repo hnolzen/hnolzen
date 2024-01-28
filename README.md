@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-#### IRIS Model
-Here you find the GitLab repository of a tick population model I have developed for a research project:  
-[https://git.ufz.de/ecoepi/iris](https://git.ufz.de/ecoepi/iris)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hnolzen&layout=compact)
 
 <!--
